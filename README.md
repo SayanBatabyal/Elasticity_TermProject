@@ -9,6 +9,6 @@ I have written down  the list of functions used in the package and short descrip
 
 This is the list of basic functions that I have developed. Obviously the list is not exhaustive and functions are being continuously built on and modified accordingly.
 
-#Some problems based on [wedges](https://github.com/SayanBatabyal/Elasticity/blob/Change_31.10.2019/WedgeProblem.mlx) have been solved. #You can have a visit at the link. However the problems are not solved completely, as a result of which beware of the results.
+# Some problems based on [wedges](https://github.com/SayanBatabyal/Elasticity/blob/Change_31.10.2019/WedgeProblem.mlx) have been solved. You can have a visit at the link. However the problems are not solved completely, as a result of which beware of the results.
 
 *For more suggestions or information, you can drop me a mail at* [**sayanb6292@gmail.com**](mailto:sayanb6292@gmail.com)
