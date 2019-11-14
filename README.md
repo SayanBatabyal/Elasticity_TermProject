@@ -6,6 +6,7 @@ I have written down  the list of functions used in the package and short descrip
 * The function [polarBiharmonic()](https://github.com/SayanBatabyal/Elasticity/blob/master/polarBiharmonic.m) computes the biharmonic of an input function in polar coordinates.
 * The functions [cartesianStressMatrix()](https://github.com/SayanBatabyal/Elasticity/blob/master/cartesianStressMatrix.m) and [polarStressMatrix()](https://github.com/SayanBatabyal/Elasticity/blob/master/polarStressMatrix.m) can be used to determine the *Stress Matrix* in cartesian and polar coordinate system respectively.
 * Similarly the functions [cartesianStrainMatrix()](https://github.com/SayanBatabyal/Elasticity/blob/master/cartesianStrainMatrix.m) and [polarStrainMatrix()](https://github.com/SayanBatabyal/Elasticity/blob/master/polarStrainMatrix.m) can be used to determine the *Strain Matrix* in cartesian and polar coordinate system respectively.
+* The function [polarStrainMatrix_Stress()](https://github.com/SayanBatabyal/Elasticity/blob/master/polarStrainMatrix_Stress.m) is used to obtain the Strain matrix when the stress matrix is given as input.
 
 This is the list of basic functions that I have developed. Obviously the list is not exhaustive and functions are being continuously built on and modified accordingly.
 
